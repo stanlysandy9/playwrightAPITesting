@@ -1,0 +1,34 @@
+{"data":[
+{
+    "firstname": "Stanly",
+    "lastname": "Nimmakuri",
+    "totalprice": 111,
+    "depositpaid": true,    
+    "bookingdates": {
+        "checkin": "2018-01-01",
+        "checkout": "2019-01-01"
+    },
+    "additionalneeds": "Breakfast"
+},
+{
+    "firstname": "Sudha",
+    "lastname": "Nimmakuri",
+    "totalprice": 112,
+    "depositpaid": true,    
+    "bookingdates": {
+        "checkin": "2018-01-01",
+        "checkout": "2019-01-01"
+    },
+    "additionalneeds": "Lunch"
+},{
+    "firstname": "swa",
+    "lastname": "Nimmakuri",
+    "totalprice": 113,
+    "depositpaid": true,    
+    "bookingdates": {
+        "checkin": "2018-01-01",
+        "checkout": "2019-01-01"
+    },
+    "additionalneeds": "Dinner"
+}
+]}
